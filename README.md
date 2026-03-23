@@ -6,7 +6,7 @@ Go, Python, Flutter/Dart. Solo-dev by choice — one developer + AI should ship 
 
 #### What I'm building
 
-[**dev-skills**](https://github.com/sungurerdim/dev-skills) — 19 production-grade AI coding skills for the full software lifecycle. Quality gates, error recovery, 8 AI weakness mitigations. Works with Claude Code, Cursor, Copilot, Windsurf, Aider.
+[**dev-skills**](https://github.com/sungurerdim/dev-skills) — 20 production-grade AI coding skills for the full software lifecycle. Quality gates, error recovery, 8 AI weakness mitigations. Works with Claude Code, Cursor, Copilot, Windsurf, Aider.
 
 [**dev-rules**](https://github.com/sungurerdim/dev-rules) — Universal behavioral guardrails for AI-assisted development. One file, any AI coding tool, always active.
 
