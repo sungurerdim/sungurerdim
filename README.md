@@ -24,8 +24,6 @@ I use both in my own daily work.
 
 [**statusline**](https://github.com/sungurerdim/statusline) - Terminal statusline for AI coding tools. One static Rust binary: cost, context and rate limits from the tool's own data.
 
-[**AICoderMap**](https://github.com/sungurerdim/aicodermap) - Compare AI coding models by your own priorities. Contradictions between sources are flagged. English and Turkish. Archived.
-
 ---
 
 [CV](https://sungurerdim.github.io) · [LinkedIn](https://linkedin.com/in/sungurerdim) · [X](https://x.com/sungurerdim)
