@@ -1,28 +1,30 @@
 ### Hi, I'm Sungur
 
-I turn manual, messy processes into systems people actually adopt. Today I do it with AI agents.
+Automation Architect focused on AI enablement and applied AI. I replace manual work with systems teams keep using.
 
-Automation Architect in Istanbul (UTC+3), working remotely on applied AI, AI enablement, process automation and workflow automation.
+- Seedify: rebuilt the failing token-sale snapshot system alone. A run on one network went from 21+ hours to 1.8 minutes. It ran 20+ sales, typically $200k–$900k each.
+- Turkish Airlines: built a Word/VBA tool that cut a one-hour document check to 20 seconds. It became mandatory for all quality delegates.
+- Seedify: built a Python tool that collects influencer data from x.com. Manual work went from 128 to 8 hours a month.
 
-I have written automation for 12+ years, since 2013: an airline's Word tool that went from one hour to 20 seconds and became mandatory, a snapshot system that went from 21+ hours to 1.8 minutes, and now rules for LLM-based coding agents that I measure.
+Now I build rules and skills that make AI coding agents reliable (dev-rules, dev-skills, open source).
 
-Python, Bash and VBA are what I write. Go, Rust and Dart are what I ship with AI assistance.
+#### Projects
 
-#### What I build
+[**dev-skills**](https://github.com/sungurerdim/dev-skills) - 32 skills for AI coding agents, with quality gates.
 
-[**dev-skills**](https://github.com/sungurerdim/dev-skills) - 32 skills for AI coding agents, with quality gates and error recovery. On one benchmark task, agents passed 10 of 10 runs when told to use them and 0 of 10 when left to choose. Works with Claude Code, Cursor, Copilot, Windsurf and Aider.
+[**dev-rules**](https://github.com/sungurerdim/dev-rules) - One rules file that stops common AI coding mistakes.
 
-[**dev-rules**](https://github.com/sungurerdim/dev-rules) - One rules file that stops common AI coding mistakes: invented APIs, broken dependent files, weakened tests. Any AI coding tool.
+On one benchmark task, AI coding agents passed 0 of 10 runs without rules and 10 of 10 with dev-skills when told to use them. The samples are small. dev-rules and dev-skills (32 skills with quality gates) are open source (MIT). I wrote and measured both, and I use them in my own daily work.
 
-I use both in my own daily work.
+[**dizgin**](https://github.com/sungurerdim/dizgin) - Container-free sandbox for AI coding tools, written in Go. In development.
 
-[**dizgin**](https://github.com/sungurerdim/dizgin) - Platform-native sandbox for AI coding tools. Real OS isolation, zero containers, one Go binary. In development.
-
-[**fpstune**](https://github.com/sungurerdim/fpstune) - Windows 11 gaming tuner built on one rule: a number you are shown comes from an instrument on your machine. Released (v0.2.2).
+[**fpstune**](https://github.com/sungurerdim/fpstune) - Windows 11 gaming tuner. It shows only numbers an instrument on your machine measured. Released (v0.2.2).
 
 **SafeScribe** - On-device transcription app for iOS. In development.
 
-[**statusline**](https://github.com/sungurerdim/statusline) - Terminal statusline for AI coding tools. One static Rust binary: cost, context and rate limits from the tool's own data.
+[**statusline**](https://github.com/sungurerdim/statusline) - Terminal statusline for AI coding tools, one small Rust binary.
+
+Shipped with AI assistance: Go, Rust, Dart/Flutter, FastAPI.
 
 ---
 
