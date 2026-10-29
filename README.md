@@ -2,7 +2,9 @@
 
 I turn manual, messy processes into systems people actually adopt. Today I do it with AI agents.
 
-I have written automation for 12+ years, since 2013: an airline's Word tool that went from one hour to 20 seconds and became mandatory, a snapshot system that went from 21+ hours to 1.8 minutes, and now rules for AI coding agents that I measure.
+Automation Architect in Istanbul (UTC+3), working remotely on applied AI, AI enablement, process automation and workflow automation.
+
+I have written automation for 12+ years, since 2013: an airline's Word tool that went from one hour to 20 seconds and became mandatory, a snapshot system that went from 21+ hours to 1.8 minutes, and now rules for LLM-based coding agents that I measure.
 
 Python, Bash and VBA are what I write. Go, Rust and Dart are what I ship with AI assistance.
 
