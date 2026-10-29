@@ -18,6 +18,8 @@ On one benchmark task, AI coding agents passed 0 of 10 runs without rules and 10
 
 [**dizgin**](https://github.com/sungurerdim/dizgin) - Container-free sandbox for AI coding tools, written in Go. In development.
 
+[**aiwe**](https://github.com/sungurerdim/aiwe) - Takes a goal to verified, merged code with the AI subscriptions you already have: small work items, isolated workspaces, mechanical gates, an independent reviewer. Written in Go. In development; 706 tests.
+
 [**fpstune**](https://github.com/sungurerdim/fpstune) - Windows 11 gaming tuner. It shows only numbers an instrument on your machine measured. Released (v0.2.2).
 
 **SafeScribe** - On-device transcription app for iOS. In development.
