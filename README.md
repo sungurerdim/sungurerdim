@@ -1,22 +1,28 @@
 ### Hi, I'm Sungur
 
-Automation Architect with 10+ years of experience turning inefficient processes into automated systems. I work out what a system should be, find where the current one falls short, and build the thing that closes the gap. Aviation, banking, Web3 and developer tooling.
+I turn manual, messy processes into systems people actually adopt. Today I do it with AI agents.
 
-Python, Bash and VBA are what I write. Go, Rust and Dart are what I ship with AI assistance. Solo-dev by choice: one developer + AI should ship what a team of five ships.
+I have written automation for 12+ years, since 2013: an airline's Word tool that went from one hour to 20 seconds and became mandatory, a snapshot system that went from 21+ hours to 1.8 minutes, and now rules for AI coding agents that I measure.
 
-#### What I'm building
+Python, Bash and VBA are what I write. Go, Rust and Dart are what I ship with AI assistance.
 
-[**dev-skills**](https://github.com/sungurerdim/dev-skills) - 30 production-grade AI coding skills for the full software lifecycle. Quality gates, error recovery, 17 AI weakness mitigations. Works with Claude Code, Cursor, Copilot, Windsurf, Aider.
+#### What I build
 
-[**dizgin**](https://github.com/sungurerdim/dizgin) - Platform-native sandbox for AI coding tools. Real OS isolation (macOS Seatbelt, Linux bubblewrap, Windows restricted tokens) with zero containers: one Go binary, native tool experience preserved. In development.
+[**dev-skills**](https://github.com/sungurerdim/dev-skills) - 32 skills for AI coding agents, with quality gates and error recovery. On one benchmark task, agents passed 10 of 10 runs when told to use them and 0 of 10 when left to choose. Works with Claude Code, Cursor, Copilot, Windsurf and Aider.
 
-[**dev-rules**](https://github.com/sungurerdim/dev-rules) - Universal behavioral guardrails for AI-assisted development. One file, any AI coding tool, always active.
+[**dev-rules**](https://github.com/sungurerdim/dev-rules) - One rules file that stops common AI coding mistakes: invented APIs, broken dependent files, weakened tests. Any AI coding tool.
 
-[**AICoderMap**](https://github.com/sungurerdim/aicodermap) - Compare AI coding models ranked by your own priorities. Cross-verified benchmarks, contradiction flags, local-GPU-fit labels, English + Turkish.
+I use both in my own daily work.
 
-[**statusline**](https://github.com/sungurerdim/statusline) - Fast, harness-independent terminal statusline for AI coding tools. One static Rust binary, no runtime: real-time cost, context % and rate-limit tracking straight from the harness.
+[**dizgin**](https://github.com/sungurerdim/dizgin) - Platform-native sandbox for AI coding tools. Real OS isolation, zero containers, one Go binary. In development.
 
-**SafeScribe** - Fully on-device AI transcription for iOS. Audio never leaves the phone: no server, no account, no telemetry. Whisper-powered with speaker diarization, Turkish-focused. In development.
+[**fpstune**](https://github.com/sungurerdim/fpstune) - Windows 11 gaming tuner built on one rule: a number you are shown comes from an instrument on your machine. Released (v0.2.2).
+
+**SafeScribe** - On-device transcription app for iOS. In development.
+
+[**statusline**](https://github.com/sungurerdim/statusline) - Terminal statusline for AI coding tools. One static Rust binary: cost, context and rate limits from the tool's own data.
+
+[**AICoderMap**](https://github.com/sungurerdim/aicodermap) - Compare AI coding models by your own priorities. Contradictions between sources are flagged. English and Turkish. Archived.
 
 ---
 
